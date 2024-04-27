@@ -2,7 +2,8 @@
 
 ## Description
 
-Here, we have a quiz form to guess the capital city of Iran. The code for the form is located in `App.vue`. It appears too imperative. Rewrite the code to be as <ins>**declarative**</ins> as possible.
+in `App.vue`, we have a quiz form to guess the capital city of Iran.The code appears too imperative.
+Re-Factor the code to be as <ins>**declarative**</ins> as possible.
 
 ## Getting started
 ```bash

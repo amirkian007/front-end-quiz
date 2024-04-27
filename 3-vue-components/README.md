@@ -2,7 +2,8 @@
 
 ## Description
 
-Here, we have a readonly product list that we are displaying on ui. seperate the code into vue components.
+in `App.vue`, we have a readonly product list that we are displaying on ui.
+Seperate the code into vue components.
 
 ## Getting started
 ```bash
